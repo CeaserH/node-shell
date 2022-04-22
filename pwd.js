@@ -1,11 +1,6 @@
-// import { cwd } from 'process';
-const cwd = require('process');
+const {cwd} = require('process');
 
-module.exports = function pwd (){
-    return cwd.cwd();
-}
+module.exports = function () {
+  return `${cwd()}`;
+};
 
-// function pwd(){
-//     return `${cwd()}`;
-// }
-// export{pwd}

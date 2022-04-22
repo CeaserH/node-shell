@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/christiancabp/node-shell.git"
   },
-  "author": "chris",
+  "author": "chris, ceaser",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/christiancabp/node-shell/issues"
