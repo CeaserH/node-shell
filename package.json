@@ -1,0 +1,20 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiancabp/node-shell.git"
+  },
+  "type": "module",
+  "author": "chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiancabp/node-shell/issues"
+  },
+  "homepage": "https://github.com/christiancabp/node-shell#readme"
+}
